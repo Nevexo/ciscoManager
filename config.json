@@ -1,0 +1,9 @@
+{
+    "about": {
+        "name": "ciscoManager",
+        "releaseName": "TAYNA",
+        "version": 1.0,
+        "iosTarget": 15,
+        "platform": "Linux/DARWIN"
+    }
+}

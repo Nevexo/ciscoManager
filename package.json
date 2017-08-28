@@ -1,0 +1,34 @@
+{
+  "name": "ciscomanager",
+  "version": "1.0.0",
+  "description": "A tool to manage a single or multiple Cisco devices at once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevexo/ciscomanager.git"
+  },
+  "keywords": [
+    "Cisco",
+    "Networking",
+    "Switching",
+    "Routers",
+    "Manager",
+    "CLI",
+    "script"
+  ],
+  "author": "Nevexo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevexo/ciscomanager/issues"
+  },
+  "homepage": "https://github.com/nevexo/ciscomanager#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.2",
+    "request": "^2.81.0"
+  }
+}
